@@ -1,11 +1,11 @@
-About r-rfutilities
-===================
+About r-rfutilities-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rfutilities-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=rfUtilities
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rfutilities-feedstock/blob/main/LICENSE.txt)
 
 Summary: Utilities for Random Forest model selection, class balance correction, significance test, cross validation and partial dependency plots.
 
